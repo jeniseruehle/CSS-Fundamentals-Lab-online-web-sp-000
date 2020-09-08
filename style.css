@@ -8,7 +8,7 @@ h1, nav {
   text-align: center;
 }
 
-.center {
+figure.center {
   display: block;
   margin-left: auto;
   margin-right: auto;
